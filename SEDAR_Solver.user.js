@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name        SEDAR Solver
+// @name        SEDAR Captcha Solver
 // @namespace   sedar
 // @include     http://sedar.com/GetFile.do*
 // @include     http://sedar.com/CheckCode.do*
 // @grant       none
 // @version     1
+// @updateURL https://openuserjs.org/meta/userscript17/SEDAR_Captcha_Solver.meta.js
 // ==/UserScript==
 
 (function() {
